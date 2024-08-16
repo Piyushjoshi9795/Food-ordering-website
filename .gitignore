@@ -1,0 +1,16 @@
+node_modules
+.parcel-cache/
+dist/
+
+.parcel-cache/7f973df67467291d-AssetGraph-0
+.parcel-cache/6054c31dbe703fb9-BundleGraph-0
+.parcel-cache/a8a28560cabca33b-AssetGraph-0
+.parcel-cache/data.mdb
+.parcel-cache/requestGraph-8b272c8491111040-0
+.parcel-cache/requestGraph-nodes-0-8b272c8491111040-0
+.parcel-cache/requestGraph-nodes-2-8b272c8491111040-0
+.parcel-cache/snapshot-8b272c8491111040.txt
+dist/index.9e4c6fd2.css
+dist/index.9e4c6fd2.css.map
+dist/index.7271efb6.js
+dist/index.7271efb6.js.map
